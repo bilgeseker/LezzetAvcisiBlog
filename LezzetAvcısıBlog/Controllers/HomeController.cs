@@ -15,12 +15,16 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        var context = new WebContext();
-        var kullanici = context.Kullanici.ToList();
-        return View(kullanici);
+        
+        return View();
     }
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    public IActionResult Login()
     {
         return View();
     }

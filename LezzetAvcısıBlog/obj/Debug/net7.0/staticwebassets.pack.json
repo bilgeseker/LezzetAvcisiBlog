@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/img/food1.jpg",
+      "PackagePath": "staticwebassets/img/food1.jpg"
+    },
+    {
+      "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/img/food2.jpg",
+      "PackagePath": "staticwebassets/img/food2.jpg"
+    },
+    {
+      "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/img/food3.jpg",
+      "PackagePath": "staticwebassets/img/food3.jpg"
+    },
+    {
+      "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/img/homeImg.jpg",
+      "PackagePath": "staticwebassets/img/homeImg.jpg"
+    },
+    {
+      "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
       "Id": "/Users/bilgeseker/Projects/LezzetAvcısıBlog/LezzetAvcısıBlog/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

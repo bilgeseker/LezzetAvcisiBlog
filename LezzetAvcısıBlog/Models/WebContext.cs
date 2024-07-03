@@ -8,7 +8,7 @@ namespace LezzetAvcısıBlog.Models
         public DbSet<Kullanici> Kullanici { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("Server=localhost;Database=LezzetAvcisi;User=root;Password=crisscolfer1;", new MySqlServerVersion(new Version(8, 0, 21)));
+            optionsBuilder.UseMySql("Server=localhost;Database=LezzetAvcisi;User=root;Password=x;", new MySqlServerVersion(new Version(8, 0, 21)));
         }
         
     }
